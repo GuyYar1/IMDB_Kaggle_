@@ -15,6 +15,7 @@ Perform End-to-end for ML Model Creation
   3. ML libraries
 
 **Version control:**
+
  work with GitHub desktop on the different versions.
  it is important to mention that we have 3 type of files required versions.
    1. Data - csv or pkl. ( Initial data, flat file data, progress data along the progress of the notebooks above) - {customer update or update collections.}
