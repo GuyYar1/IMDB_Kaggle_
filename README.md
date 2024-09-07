@@ -23,3 +23,7 @@ Products:
      
 The data came from Kaggel chalange:  https://www.kaggle.com/datasets/asaniczka/full-tmdb-tv-shows-dataset-2023-150k-shows
 follows the best practice guidelines.
+
+Note:
+  i moved from 3.10 toward 3.11 so unsupported transition require to save it on excel file including json Dtype for auto loading.
+  pkl libjob doesnt support it currently. 
