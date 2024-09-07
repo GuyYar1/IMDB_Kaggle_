@@ -36,4 +36,4 @@ follows the best practice guidelines.
 
 **# Note:**
  1. i moved from 3.10 toward 3.11 so unsupported transition require to save it on excel file including json Dtype for auto loading.
-  pkl libjob doesnt support it currently. 
+  pkl joblib doesnt support it currently. 
